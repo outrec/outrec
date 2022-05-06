@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://outrec.com
+<a href="https://outrec.com" rel="follow">https://outrec.com</a>
